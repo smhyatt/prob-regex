@@ -89,7 +89,4 @@ This procedure will continue until the string is matched.
 
 
 
-See the docs for further explanation of the code. 
-
-
 
